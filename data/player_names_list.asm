@@ -1,11 +1,11 @@
 DefaultNamesPlayerList:
 	db "NEW NAME@"
-	db "YELLOW@"
-	db "ASH@"
-	db "JACK@"
+	db "PIKACHU@"
+	db "PIKASHU@"
+	db "JAKACHU@"
 
 DefaultNamesRivalList:
 	db "NEW NAME@"
-	db "BLUE@"
-	db "GARY@"
-	db "JOHN@"
+	db "PIKABLU@"
+	db "GARYCHU@"
+	db "PIKAJON@"

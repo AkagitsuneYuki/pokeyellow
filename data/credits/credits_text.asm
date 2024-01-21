@@ -90,62 +90,62 @@ CreditsTextPointers:
 	assert_table_length NUM_CRED_STRINGS
 
 CreditsText_Version:
-	db -6, "YELLOW VERSION"
+	db -6, "PIKACHU VERSION"
 	next   "    STAFF@"
 CreditsText_Tajiri:
-	db -6, "SATOSHI TAJIRI@"
+	db -6, "SATOSHICHU TAJIRI@"
 CreditsText_Oota:
-	db -6, "TAKENORI OOTA@"
+	db -6, "TAKENORICHU OOTA@"
 CreditsText_Morimoto:
-	db -7, "SHIGEKI MORIMOTO@"
+	db -7, "SHIGEKIKACHU MORIMOTO@"
 CreditsText_Watanabe:
-	db -7, "TETSUYA WATANABE@"
+	db -7, "TETSUYACHU WATANABE@"
 CreditsText_Masuda:
-	db -6, "JUNICHI MASUDA@"
+	db -6, "JUNICHIKACHU MASUDA@"
 CreditsText_Nishino:
-	db -5, "KOHJI NISHINO@"
+	db -5, "KOHJIKACHU NISHINO@"
 CreditsText_Sugimori:
-	db -5, "KEN SUGIMORI@"
+	db -5, "PIKENCHU SUGIMORI@"
 CreditsText_Nishida:
-	db -6, "ATSUKO NISHIDA@"
+	db -6, "ATSUKOCHU NISHIDA@"
 CreditsText_Miyamoto:
-	db -7, "SHIGERU MIYAMOTO@"
+	db -7, "SHIGERUCHU MIYAMOTO@"
 CreditsText_Kawaguchi:
-	db -8, "TAKASHI KAWAGUCHI@"
+	db -8, "TAKASHICHU KAWAGUCHI@"
 CreditsText_Ishihara:
-	db -8, "TSUNEKAZU ISHIHARA@"
+	db -8, "TSUNEKACHU ISHIHARA@"
 CreditsText_Yamauchi:
-	db -7, "HIROSHI YAMAUCHI@"
+	db -7, "HIROSHICHU YAMAUCHI@"
 CreditsText_Zinnai:
-	db -7, "HIROYUKI ZINNAI@"
+	db -7, "HIROYUKICHU ZINNAI@"
 CreditsText_Hishida:
-	db -7, "TATSUYA HISHIDA@"
+	db -7, "TATSUYACHU HISHIDA@"
 CreditsText_Sakai:
-	db -6, "YASUHIRO SAKAI@"
+	db -6, "YASUHIROCHU SAKAI@"
 CreditsText_Yamaguchi:
-	db -7, "WATARU YAMAGUCHI@"
+	db -7, "PIWATACHU YAMAGUCHI@"
 CreditsText_Yamamoto:
-	db -8, "KAZUYUKI YAMAMOTO@"
+	db -8, "PIKAZUYUKICHU YAMAMOTO@"
 CreditsText_Taniguchi:
-	db -8, "RYOHSUKE TANIGUCHI@"
+	db -8, "RYOHSUKECHU TANIGUCHI@"
 CreditsText_Nonomura:
-	db -8, "FUMIHIRO NONOMURA@"
+	db -8, "FUMIHIROCHU NONOMURA@"
 CreditsText_Fuziwara:
-	db -7, "MOTOFUMI FUZIWARA@"
+	db -7, "MOTOFUMIKACHU FUZIWARA@"
 CreditsText_Matsusima:
-	db -7, "KENJI MATSUSIMA@"
+	db -7, "PIKENJICHU MATSUSIMA@"
 CreditsText_Tomisawa:
-	db -7, "AKIHITO TOMISAWA@"
+	db -7, "PIKAKIHITOCHU TOMISAWA@"
 CreditsText_Kawamoto:
-	db -7, "HIROSHI KAWAMOTO@"
+	db -7, "HIROSHIKACHU KAWAMOTO@"
 CreditsText_Kakei:
-	db -6, "AKIYOSHI KAKEI@"
+	db -6, "AKIYOSHICHU KAKEI@"
 CreditsText_Tsuchiya:
-	db -7, "KAZUKI TSUCHIYA@"
+	db -7, "PIKAZUKICHU TSUCHIYA@"
 CreditsText_Nakamura:
-	db -6, "TAKEO NAKAMURA@"
+	db -6, "PITAKEOCHU NAKAMURA@"
 CreditsText_Yuda:
-	db -6, "MASAMITSU YUDA@"
+	db -6, "PIKAMASAMITSUCHU YUDA@"
 CreditsText_Pokemon:
 	db -3, "#MON@"
 CreditsText_Director:
@@ -153,7 +153,7 @@ CreditsText_Director:
 CreditsText_Programmers:
 	db -5, "PROGRAMMERS@"
 CreditsText_CharacterDesign:
-	db -7, "CHARACTER DESIGN@"
+	db -7, "PIKARACTER DESIGN@"
 CreditsText_Music:
 	db -2, "MUSIC@"
 CreditsText_SoundEffects:
@@ -161,7 +161,7 @@ CreditsText_SoundEffects:
 CreditsText_GameDesign:
 	db -5, "GAME DESIGN@"
 CreditsText_MonsterDesign:
-	db -6, "MONSTER DESIGN@"
+	db -6, "PIKACHU DESIGN@"
 CreditsText_GameScenario:
 	db -6, "GAME SCENARIO@"
 CreditsText_ParametricDesign:
@@ -179,89 +179,89 @@ CreditsText_Producer:
 CreditsText_ExecutiveProducer:
 	db -8, "EXECUTIVE PRODUCER@"
 CreditsText_Tamada:
-	db -6, "SOUSUKE TAMADA@"
+	db -6, "SOUSUKECHU TAMADA@"
 CreditsText_Oota2:
-	db -5, "SATOSHI OOTA@"
+	db -5, "SATOSHICHU OOTA@"
 CreditsText_Yoshikawa:
-	db -6, "RENA YOSHIKAWA@"
+	db -6, "RENACHU YOSHIKAWA@"
 CreditsText_Oota23:
-	db -6, "TOMOMICHI OOTA@"
+	db -6, "TOMOMICHIKACHU OOTA@"
 CreditsText_Matsumita:
-	db -8, "TOSHINOBU MATSUMIYA@"
+	db -8, "TOSHINOBUCHU MATSUMIYA@"
 CreditsText_Seya:
-	db -5, "NOBUHIRO SEYA@"
+	db -5, "PIKANOBUHIROCHU SEYA@"
 CreditsText_Yoshida:
-	db -7, "HIRONOBU YOSHIDA@"
+	db -7, "HIRONOBUCHU YOSHIDA@"
 CreditsText_Sekine:
-	db -6, "KAZUHITO SEKINE@"
+	db -6, "PIKAZUHITOCHU SEKINE@"
 CreditsText_Shimamura:
-	db -7, "KAZUSHI SHIMAMURA@"
+	db -7, "PIKAZUSHICHU SHIMAMURA@"
 CreditsText_Shimoyamada:
-	db -9, "TERUYUKI SHIMOYAMADA@"
+	db -9, "TERUYUKICHU SHIMOYAMADA@"
 CreditsText_SuperMarioClub:
-	db -9, "NCL SUPER MARIO CLUB@"
+	db -9, "NCL SUPER PIKA CLUB@"
 CreditsText_Izushi:
-	db -7, "TAKEHIRO IZUSHI@"
+	db -7, "PITAKEHIROCHU IZUSHI@"
 CreditsText_Nomura:
-	db -5, "FUZIKO NOMURA@"
+	db -5, "FUZIKOCHU NOMURA@"
 CreditsText_Harada:
-	db -6, "TAKAHIRO HARADA@"
+	db -6, "PIKATAKAHIROCHU HARADA@"
 CreditsText_Yamagami:
-	db -7, "HITOSHI YAMAGAMI@"
+	db -7, "PITOSHICHU YAMAGAMI@"
 CreditsText_Nishimura:
-	db -8, "KENTAROU NISHIMURA@"
+	db -8, "PIKENTAROUCHU NISHIMURA@"
 CreditsText_Saeki:
-	db -5, "NAOKO SAEKI@"
+	db -5, "PIKANAOKOCHU SAEKI@"
 CreditsText_Fuzii:
-	db -5, "TAKAYA FUZII@"
+	db -5, "PIKATAKAYACHU FUZII@"
 CreditsText_Shogakukan:
 	db -4, "SHOGAKUKAN"
 	next   "PRODUCTION@"
 CreditsText_Ootani:
-	db -5, "IKUE OOTANI@"
+	db -5, "PIKUECHU OOTANI@"
 CreditsText_PikachuVoice:
 	db -6, "PIKACHU VOICE@"
 
-	db -3, "××××××××@"
+	db -3, "PIKACHU@"
 CreditsText_USStaff:
 	db -7, "US VERSION STAFF@"
 CreditsText_USCoord:
 	db -7, "US COORDINATION@"
 CreditsText_Tilden:
-	db -5, "GAIL TILDEN@"
+	db -5, "PIGAILCHU TILDEN@"
 CreditsText_Kawakami:
-	db -6, "NAOKO KAWAKAMI@"
+	db -6, "PIKANAOKOCHU KAWAKAMI@"
 CreditsText_Nakamura2:
-	db -6, "HIRO NAKAMURA@"
+	db -6, "PIKAHIROCHU NAKAMURA@"
 CreditsText_Shoemake:
-	db -6, "RANDY SHOEMAKE@"
+	db -6, "RANDYCHU SHOEMAKE@"
 CreditsText_Osborne:
-	db -5, "SARA OSBORNE@"
+	db -5, "SARACHU OSBORNE@"
 CreditsText_Translation:
-	db -7, "TEXT TRANSLATION@"
+	db -7, "PIKA TRANSLATION@"
 CreditsText_Ogasawara:
-	db -6, "NOB OGASAWARA@"
+	db -6, "NOBACHU OGASAWARA@"
 CreditsText_Iwata:
 	db -5, "SATORU IWATA@"
 CreditsText_Izushi2:
-	db -7, "TAKEHIRO IZUSHI@"
+	db -7, "PITAKEHIROCHU IZUSHI@"
 CreditsText_Harada2:
-	db -7, "TAKAHIRO HARADA@"
+	db -7, "PIKATAKAHIROCHU HARADA@"
 CreditsText_Murakawa:
-	db -7, "TERUKI MURAKAWA@"
+	db -7, "TERUKICHU MURAKAWA@"
 CreditsText_Fukui:
-	db -5, "KOHTA FUKUI@"
+	db -5, "KOHTACHU FUKUI@"
 CreditsText_SuperMarioClub2:
-	db -9, "NCL SUPER MARIO CLUB@"
+	db -9, "NCL SUPER PIKA CLUB@"
 CreditsText_Paad:
-	db -5, "PAAD TESTING@"
+	db -5, "PIKAPAAD TESTING@"
 CreditsText_Hosokawa:
-	db -8, "TAKEHIKO HOSOKAWA@"
+	db -8, "TAKEHIKOCHU HOSOKAWA@"
 CreditsText_Okubo:
-	db -5, "KENJI OKUBO@"
+	db -5, "PIKENJICHU OKUBO@"
 CreditsText_Nakamichi:
-	db -7, "KIMIKO NAKAMICHI@"
+	db -7, "PIKIMIKOCHU NAKAMICHI@"
 CreditsText_Yoshimura:
-	db -6, "KAMON YOSHIMURA@"
+	db -6, "KAMONCHU YOSHIMURA@"
 CreditsText_Yamazaki:
-	db -6, "SAKAE YAMAZAKI@"
+	db -6, "PIKASAKAECHU YAMAZAKI@"

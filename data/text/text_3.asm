@@ -273,7 +273,7 @@ _AccessedHoFPCText::
 	line "LEAGUE's site."
 
 	para "Accessed the HALL"
-	line "OF FAME List."
+	line "OF PIKA List."
 	prompt
 
 _SleepingPikachuText2::
@@ -409,12 +409,12 @@ _GetDexRatedText::
 
 _ClosedOaksPCText::
 	text "Closed link to"
-	line "PROF.OAK's PC.@"
+	line "PROF.OAKACHU's PC.@"
 	text_end
 
 _AccessedOaksPCText::
 	text "Accessed PROF."
-	line "OAK's PC."
+	line "OAKACHU's PC."
 
 	para "Accessed #DEX"
 	line "Rating System."
@@ -437,7 +437,7 @@ _OakSpeechText1::
 	line "Welcome to the"
 	cont "world of #MON!"
 
-	para "My name is OAK!"
+	para "My name's OAKACHU!"
 	line "People call me"
 	cont "the #MON PROF!"
 	prompt
@@ -450,7 +450,7 @@ _OakSpeechText2A::
 	text_end
 
 _OakSpeechText2B::
-	text $51,"For some people,"
+	text $51,"For some pikas,"
 	line "#MON are"
 	cont "pets. Others use"
 	cont "them for fights."
@@ -468,7 +468,7 @@ _IntroducePlayerText::
 
 _IntroduceRivalText::
 	text "This is my grand-"
-	line "son. He's been"
+	line "pika. He's been"
 	cont "your rival since"
 	cont "you were a baby."
 
@@ -523,8 +523,8 @@ _Colosseum3MonsText::
 	prompt
 
 _ColosseumMewText::
-	text "Sorry, MEW can't"
-	line "attend!"
+	text "Sorry, PIKAMEW"
+	line "can't attend!"
 	prompt
 
 _ColosseumDifferentMonsText::
