@@ -12,7 +12,7 @@ TrainerNames::
 	li "BIKERCHU"
 	li "BURGLARCHU"
 	li "PIKANGINEER"
-	li "JUGGLER"
+	li "JUGGLERCHU"
 	li "FISHERCHU"
 	li "SWIMMERCHU"
 	li "PIKACUE BALL"

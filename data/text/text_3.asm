@@ -13,11 +13,11 @@ _TrainerWantsToFightText::
 _UnveiledGhostText::
 	text "SILPH SCOPE"
 	line "unveiled the"
-	cont "GHOST's identity!"
+	cont "PIKAGHOST's identity!"
 	prompt
 
 _GhostCantBeIDdText::
-	text "Darn! The GHOST"
+	text "Darn! The PIKAGHOST"
 	line "can't be ID'd!"
 	prompt
 

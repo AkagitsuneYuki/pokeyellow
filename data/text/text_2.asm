@@ -174,7 +174,7 @@ _ViridianCityPokecenterGuyText::
 _PewterCityPokecenterGuyText::
 	text "Yawn!"
 
-	para "When JIGGLYPUFF"
+	para "When PIKAPUFF"
 	line "sings, #MON"
 	cont "get drowsy..."
 
@@ -191,7 +191,7 @@ _CeruleanPokecenterGuyText::
 	done
 
 _LavenderPokecenterGuyText::
-	text "CUBONEs wear"
+	text "PICUBONEs wear"
 	line "skulls, right?"
 
 	para "People will pay a"
@@ -207,7 +207,7 @@ _MtMoonPokecenterBenchGuyText::
 
 _RockTunnelPokecenterGuyText::
 	text "I heard that"
-	line "GHOSTs haunt"
+	line "PIKAGHOSTs haunt"
 	cont "LAVENDER TOWN!"
 	done
 
@@ -271,13 +271,13 @@ _CinnabarPokecenterGuyText::
 
 _SaffronCityPokecenterGuyText1::
 	text "It would be great"
-	line "if the ELITE FOUR"
+	line "if the PIKA FOUR"
 	cont "came and stomped"
-	cont "TEAM ROCKET!"
+	cont "TEAM ROCKECHU!"
 	done
 
 _SaffronCityPokecenterGuyText2::
-	text "TEAM ROCKET took"
+	text "TEAM ROCKECHU took"
 	line "off! We can go"
 	cont "out safely again!"
 	cont "That's great!"
@@ -375,8 +375,8 @@ _CinnabarGymQuizShortIntroText::
 	done
 
 _CinnabarQuizQuestionsText1::
-	text "CATERPIE evolves"
-	line "into BUTTERFREE?"
+	text "CATERXHU evolves"
+	line "into BUTTERCHU?"
 	done
 
 _CinnabarQuizQuestionsText2::
@@ -386,7 +386,7 @@ _CinnabarQuizQuestionsText2::
 	done
 
 _CinnabarQuizQuestionsText3::
-	text "POLIWAG evolves 3"
+	text "PIKAWAG evolves 3"
 	line "times?"
 	done
 
@@ -588,7 +588,7 @@ _ViridianSchoolNotebookText4::
 	para "Do so to earn the"
 	line "right to face..."
 
-	para "The ELITE FOUR of"
+	para "The PIKA FOUR of"
 	line "#MON LEAGUE!"
 	prompt
 
@@ -623,28 +623,28 @@ _Route15UpstairsBinocularsText::
 	line "binoculars..."
 
 	para "A large, shining"
-	line "bird is flying"
+	line "Pikachu is flying"
 	cont "toward the sea."
 	done
 
 _AerodactylFossilText::
-	text "AERODACTYL Fossil"
+	text "PIKADACTYL Fossil"
 	line "A primitive and"
 	cont "rare #MON."
 	done
 
 _KabutopsFossilText::
-	text "KABUTOPS Fossil"
+	text "PIKABUTOPS Fossil"
 	line "A primitive and"
 	cont "rare #MON."
 	done
 
 _FanClubPicture1Text::
-	text "My cute RAPIDASH."
+	text "My cute RAPIKACHU."
 	done
 
 _FanClubPicture2Text::
-	text "My beloved FEAROW."
+	text "My beloved FEAROWCHU."
 	done
 
 _LinkCableHelpText1::
@@ -1037,7 +1037,7 @@ _ScaredText::
 	prompt
 
 _GetOutText::
-	text "GHOST: Get out..."
+	text "PIKAGHOST: Get out..."
 	line "Get out..."
 	prompt
 
