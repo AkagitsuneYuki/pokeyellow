@@ -26,14 +26,14 @@ _CeladonMansion3FGraphicArtistText2::
 	para "Wow, you finished"
 	line "your #DEX!"
 	cont "Want me to PRINT"
-	cont "out a DIPLOMA"
+	cont "out a DIPLOMACHU"
 	cont "as proof?"
 	done
 
 _CeladonMansion3FGraphicArtistText3::
 	text "Just tell me if"
 	line "you want to PRINT"
-	cont "out a DIPLOMA."
+	cont "out a DIPLOMACHU."
 	done
 
 _CeladonMansion3FGraphicArtistText4::
@@ -47,12 +47,12 @@ _CeladonMansion3FGraphicArtistText5::
 
 _CeladonMansion3FWriterText::
 	text "I wrote the story!"
-	line "Isn't ERIKA cute?"
+	line "Isn't ERIKACHU cute?"
 
-	para "I like MISTY a"
+	para "I like MISTYCHU a"
 	line "lot too!"
 
-	para "Oh, and SABRINA,"
+	para "Oh, and SABRINACHU,"
 	line "I like her!"
 	done
 
@@ -88,7 +88,7 @@ _CeladonMansion3FGameDesignerCompletedDexText::
 
 _CeladonMansion3FGameDesignerCompletedDexText2::
 	text "Go show off your"
-	line "DIPLOMA to"
+	line "DIPLOMACHU to"
 	cont "the development"
 	cont "crew."
 	done
@@ -113,6 +113,6 @@ _CeladonMansion3FGameScriptPCText::
 	done
 
 _CeladonMansion3FDevRoomSignText::
-	text "GAME FREAK"
+	text "PIKA FREAK"
 	line "Development Room"
 	done

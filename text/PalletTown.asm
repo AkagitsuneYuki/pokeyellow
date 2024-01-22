@@ -1,10 +1,10 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "OAKACHU: Hey!"
+	line "Wait! Don't go out!@"
 	text_end
 
 _PalletTownOakThatWasCloseText::
-	text "OAK: That was"
+	text "OAKACHU: That was"
 	line "close!"
 
 	para "Wild #MON live"
@@ -12,13 +12,13 @@ _PalletTownOakThatWasCloseText::
 	done
 
 _PalletTownOakWhewText::
-	text "OAK: Whew..."
+	text "OAKACHU: Whew..."
 	done
 
 _PalletTownOakComeWithMe::
-	text "OAK: A #MON can"
-	line "appear anytime in"
-	cont "tall grass."
+	text "OAKACHU: A #MON"
+	line "can appear"
+	cont "anytime in grass."
 
 	para "You need your own"
 	line "#MON for your"
@@ -49,7 +49,7 @@ _PalletTownFisherText::
 	done
 
 _PalletTownOaksLabSignText::
-	text "OAK #MON"
+	text "OAKACHU #MON"
 	line "RESEARCH LAB"
 	done
 

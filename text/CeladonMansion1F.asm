@@ -1,15 +1,15 @@
 _CeladonMansion1FMeowthText::
-	text "MEOWTH: Meow!@"
+	text "PIKAWTH: Pika!@"
 	text_end
 
 _CeladonMansion1FClefairyText::
-	text "CLEFAIRY: Pi"
+	text "PIKAFAIRY: Pi"
 	line "pippippi!@"
 	text_end
 
 _CeladonMansion1FNidoranFText::
-	text "NIDORAN: Kya"
-	line "kyaoo!@"
+	text "PIKARAN: Pikya"
+	line "pikyaoo!@"
 	text_end
 
 _CeladonMansion1FManagersSuiteSignText::
@@ -21,7 +21,7 @@ _CeladonMansion1Text2::
 	text "My dear #MON"
 	line "keep me company."
 
-	para "MEOWTH even brings"
+	para "PIKAWTH even brings"
 	line "money home!"
 	done
 

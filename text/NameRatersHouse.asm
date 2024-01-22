@@ -1,7 +1,7 @@
 _NameRatersHouseNameRaterWantMeToRateText::
 	text "Hello, hello!"
 	line "I am the official"
-	cont "NAME RATER!"
+	cont "PIKA RATER!"
 
 	para "Want me to rate"
 	line "the nicknames of"

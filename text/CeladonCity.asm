@@ -54,7 +54,7 @@ _CeladonCityGramps3TM41ExplanationText::
 	line "can use it!"
 
 	para "That #MON is"
-	line "CHANSEY!"
+	line "PIKANSEY!"
 	done
 
 _CeladonCityGramps3TM41NoRoomText::
@@ -64,16 +64,16 @@ _CeladonCityGramps3TM41NoRoomText::
 
 _CeladonCityFisherText::
 	text "This is my trusted"
-	line "pal, POLIWRATH!"
+	line "pal, PIKAWRATH!"
 
 	para "It evolved from"
-	line "POLIWHIRL when I"
+	line "PIKAWHIRL when I"
 	cont "used WATER STONE!"
 	done
 
 _CeladonCityPoliwrathText::
-	text "POLIWRATH: Ribi"
-	line "ribit!@"
+	text "PIKAWRATH: Pika"
+	line "pika!@"
 	text_end
 
 _CeladonCityRocket1Text::
@@ -83,7 +83,7 @@ _CeladonCityRocket1Text::
 
 _CeladonCityRocket2Text::
 	text "Keep out of TEAM"
-	line "ROCKET's way!"
+	line "ROCKECHU's way!"
 	done
 
 _CeladonCitySignText::
@@ -95,7 +95,7 @@ _CeladonCitySignText::
 _CeladonCityGymSignText::
 	text "CELADON CITY"
 	line "#MON GYM"
-	cont "LEADER: ERIKA"
+	cont "LEADER: ERIKACHU"
 
 	para "The Nature-Loving"
 	line "Princess!"

@@ -16,8 +16,8 @@ _FuchsiaCityGamblerText::
 	done
 
 _FuchsiaCityErikText::
-	text "ERIK: Where's"
-	line "SARA? I said I'd"
+	text "ERIKCHU: Where's"
+	line "SARACHU? I said I'd"
 	cont "meet her here."
 	done
 
@@ -55,28 +55,28 @@ _FuchsiaCitySafariZoneSignText::
 _FuchsiaCityGymSignText::
 	text "FUCHSIA CITY"
 	line "#MON GYM"
-	cont "LEADER: KOGA"
+	cont "LEADER: KOGACHU"
 
 	para "The Poisonous"
 	line "Ninja Master!"
 	done
 
 _FuchsiaCityChanseySignText::
-	text "Name: CHANSEY"
+	text "Name: PIKANSEY"
 
 	para "Catching one is"
 	line "all up to chance."
 	prompt
 
 _FuchsiaCityVoltorbSignText::
-	text "Name: VOLTORB"
+	text "Name: VOLTORBCHU"
 
 	para "The very image of"
 	line "a # BALL."
 	prompt
 
 _FuchsiaCityKangaskhanSignText::
-	text "Name: KANGASKHAN"
+	text "Name: PIKASKHAN"
 
 	para "A maternal #MON"
 	line "that raises its"
@@ -85,21 +85,21 @@ _FuchsiaCityKangaskhanSignText::
 	prompt
 
 _FuchsiaCitySlowpokeSignText::
-	text "Name: SLOWPOKE"
+	text "Name: SLOWPOCHU"
 
 	para "Friendly and very"
 	line "slow moving."
 	prompt
 
 _FuchsiaCityLaprasSignText::
-	text "Name: LAPRAS"
+	text "Name: LAPRACHU"
 
 	para "A.K.A. the king"
 	line "of the seas."
 	prompt
 
 _FuchsiaCityFossilSignOmanyteText::
-	text "Name: OMANYTE"
+	text "Name: PIKANYTE"
 
 	para "A #MON that"
 	line "was resurrected"
@@ -107,7 +107,7 @@ _FuchsiaCityFossilSignOmanyteText::
 	prompt
 
 _FuchsiaCityFossilSignKabutoText::
-	text "Name: KABUTO"
+	text "Name: PIKABUTO"
 
 	para "A #MON that"
 	line "was resurrected"

@@ -1,18 +1,19 @@
 _MrFujisHouseSuperNerdMrFujiIsntHereText::
-	text "That's odd, MR.FUJI"
-	line "isn't here."
-	cont "Where'd he go?"
+	text "That's odd,"
+	line "MR.FUJICHU isn't"
+	cont "hare. Where'd he"
+	cont "go?"
 	done
 
 _MrFujisHouseSuperNerdMrFujiHadBeenPrayingText::
 	text "MR.FUJI had been"
 	line "praying alone for"
-	cont "CUBONE's mother."
+	cont "PICUBONE's mother."
 	done
 
 _MrFujisHouseLittleGirlThisIsMrFujisHouseText::
 	text "This is really"
-	line "MR.FUJI's house."
+	line "MR.FUJICHU's house."
 
 	para "He's really kind!"
 
@@ -28,15 +29,15 @@ _MrFujisHouseLittleGirlPokemonAreNiceToHugText::
 	done
 
 _MrFujisHousePsyduckText::
-	text "PSYDUCK: Gwappa!@"
+	text "PSYDUCHU: Pikkwa!@"
 	text_end
 
 _MrFujisHouseNidorinoText::
-	text "NIDORINO: Gaoo!@"
+	text "PIKARINO: Pigaoo!@"
 	text_end
 
 _MrFujisHouseMrFujiIThinkThisMayHelpYourQuestText::
-	text "MR.FUJI: <PLAYER>."
+	text "FUJICHU: <PLAYER>."
 
 	para "Your #DEX quest"
 	line "may fail without"
@@ -72,7 +73,7 @@ _MrFujisHouseMrFujiPokeFluteNoRoomText::
 	done
 
 _MrFujisHouseMrFujiHasMyFluteHelpedYouText::
-	text "MR.FUJI: Has my"
+	text "FUJICHU: Has my"
 	line "FLUTE helped you?"
 	done
 

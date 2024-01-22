@@ -1,6 +1,6 @@
 _LavenderTownLittleGirlDoYouBelieveInGhostsText::
 	text "Do you believe in"
-	line "GHOSTs?"
+	line "PIKAGHOSTs?"
 	done
 
 _LavenderTownLittleGirlSoThereAreBelieversText::
@@ -28,7 +28,7 @@ _LavenderTownCooltrainerMText::
 	done
 
 _LavenderTownSuperNerdText::
-	text "GHOSTs appeared"
+	text "PIKAGHOSTs appeared"
 	line "in #MON TOWER."
 
 	para "I think they're"

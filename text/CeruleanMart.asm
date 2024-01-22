@@ -11,7 +11,7 @@ _CeruleanMartCooltrainerMText::
 
 _CeruleanMartCooltrainerFText::
 	text "Have you seen any"
-	line "RARE CANDY?"
+	line "PIKA CANDY?"
 
 	para "It's supposed to"
 	line "make #MON go"

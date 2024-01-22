@@ -1,13 +1,13 @@
 ItemNames::
 	list_start ItemNames
-	li "MASTERCHU BALL"
-	li "ULTRACHU BALL"
-	li "PIKAGREAT BALL"
+	li "MASTACHU BALL"
+	li "PIKULTRA BALL"
+	li "PIGREAT BALL"
 	li "PIKA BALL"
 	li "TOWN MAP"
 	li "BICYCLE"
 	li "?????" ; SURFBOARD
-	li "SAFARICHU BALL"
+	li "SAFARI BALL"
 	li "PIKADEX"
 	li "MOON STONE"
 	li "ANTIDOTE"
@@ -69,7 +69,7 @@ ItemNames::
 	li "X SPEED"
 	li "X SPECIAL"
 	li "PIKA CASE"
-	li "OAKACHU's PARCEL"
+	li "OKACHU PARCEL"
 	li "ITEMFINDER"
 	li "SILPH SCOPE"
 	li "PIKA FLUTE"

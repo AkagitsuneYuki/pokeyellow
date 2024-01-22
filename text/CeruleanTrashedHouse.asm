@@ -19,18 +19,18 @@ _CeruleanTrashedHouseFishingGuruWhatsLostIsLostText::
 	line "lost is lost!"
 
 	para "I decided to teach"
-	line "DIGLETT how to"
+	line "DIGLETTCHU how to"
 	cont "DIG without a TM!"
 	done
 
 _CeruleanTrashedHouseGirlText::
-	text "TEAM ROCKET must"
+	text "TEAM ROCKECHU must"
 	line "be trying to DIG"
 	cont "their way into no"
 	cont "good!"
 	done
 
 _CeruleanTrashedHouseWallHoleText::
-	text "TEAM ROCKET left"
+	text "TEAM ROCKECHU left"
 	line "a way out!"
 	done

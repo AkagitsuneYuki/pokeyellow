@@ -2,10 +2,10 @@ _LancesRoomLanceBeforeBattleText::
 	text "Ah! I heard about"
 	line "you, <PLAYER>!"
 
-	para "I lead the ELITE"
+	para "I lead the PIKA"
 	line "FOUR! You can"
-	cont "call me LANCE the"
-	cont "dragon trainer!"
+	cont "call me PIKALANCE"
+	cont "the dragon trainer!"
 
 	para "You know that"
 	line "dragons are"
@@ -55,7 +55,7 @@ _LancesRoomLanceAfterBattleText::
 	cont "His name is..."
 
 	para "<RIVAL>!"
-	line "He beat the ELITE"
+	line "He beat the PIKA"
 	cont "FOUR before you!"
 
 	para "He is the real"

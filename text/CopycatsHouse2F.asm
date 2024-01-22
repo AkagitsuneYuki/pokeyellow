@@ -53,7 +53,7 @@ _CopycatsHouse2FCopycatTM31Explanation2Text::
 	line "that fun to mimic"
 	cont "my every move?"
 
-	para "COPYCAT: You bet!"
+	para "COPYCHU: You bet!"
 	line "It's a scream!"
 	done
 
@@ -63,11 +63,11 @@ _CopycatsHouse2FCopycatTM31NoRoomText::
 	text_end
 
 _CopycatsHouse2FDoduoText::
-	text "DODUO: Giiih!"
+	text "PIKADUO: Piiih!"
 
-	para "MIRROR MIRROR ON"
+	para "PIKA PIKA ON"
 	line "THE WALL, WHO IS"
-	cont "THE FAIREST ONE"
+	cont "THE FAIREST PIKA"
 	cont "OF ALL?"
 	done
 
@@ -92,7 +92,7 @@ _CopycatsHouse2FPCMySecretsText::
 	line "Hobby: Collecting"
 	cont "dolls!"
 	cont "Favorite #MON:"
-	cont "CLEFAIRY!"
+	cont "PIKAFAIRY!"
 	done
 
 _CopycatsHouse2FPCCantSeeText::

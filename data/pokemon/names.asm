@@ -152,7 +152,7 @@ MonsterNames::
 	db "PIKEOTTO@@"
 	db "PIKEOT@@@@"
 	db "STARMIECHU"
-	db "PIKASAUR@@"
+	db "BULBACHU@@"
 	db "PIKASAUR@@"
 	db "PIKACRUEL@"
 	db "MISSINGCHU"

@@ -11,7 +11,7 @@ _CeruleanGymMistyPreBattleText::
 	cont "with water-type"
 	cont "#MON!"
 
-	para "MISTY, the world-"
+	para "MISTYCHU, the world-"
 	line "famous beauty, is"
 	cont "your host!"
 
@@ -72,7 +72,7 @@ _CeruleanGymBattleText1::
 	text "I'm more than good"
 	line "enough for you!"
 
-	para "MISTY can wait!"
+	para "MISTYCHU can wait!"
 	done
 
 _CeruleanGymEndBattleText1::
@@ -100,7 +100,7 @@ _CeruleanGymEndBattleText2::
 	prompt
 
 _CeruleanGymAfterBattleText2::
-	text "MISTY is going to"
+	text "MISTYCHU is going to"
 	line "keep improving!"
 
 	para "She won't lose to"
@@ -113,7 +113,7 @@ _CeruleanGymGymGuideChampInMakingText::
 
 	para "Here's my advice!"
 
-	para "The LEADER, MISTY,"
+	para "The LEADER, MISTYCHU,"
 	line "is a pro who uses"
 	cont "water #MON!"
 
@@ -126,7 +126,7 @@ _CeruleanGymGymGuideChampInMakingText::
 	done
 
 _CeruleanGymGymGuideBeatMistyText::
-	text "You beat MISTY!"
+	text "You beat MISTYCHU!"
 	line "What'd I tell ya?"
 
 	para "You and me, kid,"

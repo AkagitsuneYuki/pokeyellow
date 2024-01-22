@@ -13,19 +13,19 @@ _CeladonMart3FGameBoyKid2Text::
 
 	para "My buddy's going"
 	line "to trade me his"
-	cont "KANGASKHAN for my"
-	cont "GRAVELER!"
+	cont "PIKASKHAN for my"
+	cont "PIGRAVELER!"
 	done
 
 _CeladonMart3FGameBoyKid3Text::
-	text "Come on GRAVELER!"
+	text "Come on PIGRAVELER!"
 
-	para "I love GRAVELER!"
+	para "I love PIGRAVELER!"
 	line "I collect them!"
 
 	para "Huh?"
 
-	para "GRAVELER turned"
+	para "PIGRAVELER turned"
 	line "into a different"
 	cont "#MON!"
 	done

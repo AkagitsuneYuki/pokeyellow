@@ -1,6 +1,6 @@
 _CeladonMart4FSuperNerdText::
 	text "I'm getting a"
-	line "gift for COPYCAT"
+	line "gift for COPYCHU"
 	cont "in CERULEAN CITY."
 
 	para "It's got to be a"

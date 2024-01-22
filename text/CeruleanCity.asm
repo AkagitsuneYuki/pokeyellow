@@ -127,7 +127,7 @@ _CeruleanCityGuardText::
 	line "here were robbed."
 
 	para "We're positive"
-	line "that TEAM ROCKET"
+	line "that TEAM ROCKECHU"
 	cont "is behind this"
 	cont "terrible deed."
 
@@ -137,20 +137,20 @@ _CeruleanCityGuardText::
 	done
 
 _CeruleanCityCooltrainerF1ElectrodeUseSonicboomText::
-	text "OK! ELECTRODE!"
+	text "OK! ELECTCHU!"
 	line "Use SONICBOOM!"
-	cont "Please ELECTRODE,"
+	cont "Please ELECTCHU,"
 	cont "pay attention!"
 	done
 
 _CeruleanCityCooltrainerF1ElectrodePunchText::
-	text "ELECTRODE, TACKLE!"
+	text "ELECTCHU, TACKLE!"
 	line "No! You blew it"
 	cont "again!"
 	done
 
 _CeruleanCityCooltrainerF1ElectrodeWithdrawText::
-	text "ELECTRODE, SWIFT!"
+	text "ELECTCHU, SWIFT!"
 	line "No! That's wrong!"
 
 	para "Training #MON"
@@ -163,22 +163,22 @@ _CeruleanCityCooltrainerF1ElectrodeWithdrawText::
 	done
 
 _CeruleanCityElectrodeTookASnoozeText::
-	text "ELECTRODE took a"
+	text "ELECTCHU took a"
 	line "snooze..."
 	done
 
 _CeruleanCityElectrodeIsLoafingAroundText::
-	text "ELECTRODE is"
+	text "ELECTCHU is"
 	line "loafing around..."
 	done
 
 _CeruleanCityElectrodeTurnedAwayText::
-	text "ELECTRODE turned"
+	text "ELECTCHU turned"
 	line "away..."
 	done
 
 _CeruleanCityElectrodeIgnoredOrdersText::
-	text "ELECTRODE"
+	text "ELECTCHU"
 	line "ignored orders..."
 	done
 
@@ -228,7 +228,7 @@ _CeruleanCityBikeShopSign::
 _CeruleanCityGymSign::
 	text "CERULEAN CITY"
 	line "#MON GYM"
-	cont "LEADER: MISTY"
+	cont "LEADER: MISTYCHU"
 
 	para "The Tomboyish"
 	line "Mermaid!"

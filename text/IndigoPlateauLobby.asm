@@ -4,7 +4,7 @@ _IndigoPlateauLobbyGymGuideText::
 
 	para "At #MON LEAGUE,"
 	line "you have to face"
-	cont "the ELITE FOUR in"
+	cont "the PIKA FOUR in"
 	cont "succession."
 
 	para "If you lose, you"
@@ -15,7 +15,7 @@ _IndigoPlateauLobbyGymGuideText::
 
 _IndigoPlateauLobbyCooltrainerFText::
 	text "From here on, you"
-	line "face the ELITE"
+	line "face the PIKA"
 	cont "FOUR one by one!"
 
 	para "If you win, a"

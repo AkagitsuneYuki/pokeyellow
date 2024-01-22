@@ -49,7 +49,7 @@ _GameCornerMiddleAgedMan1Text::
 
 	para "It's rumored that"
 	line "this place is run"
-	cont "by TEAM ROCKET."
+	cont "by TEAM ROCKECHU."
 	done
 
 _GameCornerBeauty2Text::
@@ -91,7 +91,7 @@ _GameCornerGymGuideChampInMakingText::
 	cont "champ in making!"
 
 	para "CELADON GYM's"
-	line "LEADER is ERIKA!"
+	line "LEADER is ERIKACHU!"
 	cont "She uses grass-"
 	cont "type #MON!"
 

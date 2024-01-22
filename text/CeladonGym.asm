@@ -7,7 +7,7 @@ _CeladonGymErikaPreBattleText::
 	line "I must have dozed"
 	cont "off. Welcome."
 
-	para "My name is ERIKA."
+	para "My name is ERIKACHU."
 	line "I am the LEADER"
 	cont "of CELADON GYM."
 
@@ -99,7 +99,7 @@ _CeladonGymEndBattleText2::
 
 _CeladonGymAfterBattleText2::
 	text "Bleaah!"
-	line "I hope ERIKA"
+	line "I hope ERIKACHU"
 	cont "wipes you out!"
 	done
 
@@ -173,7 +173,7 @@ _CeladonGymEndBattleText6::
 	prompt
 
 _CeladonGymAfterBattleText6::
-	text "Our LEADER, ERIKA,"
+	text "Our LEADER, ERIKACHU,"
 	line "might be quiet,"
 	cont "but she's also"
 	cont "very skilled!"

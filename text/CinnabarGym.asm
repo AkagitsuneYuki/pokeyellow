@@ -1,9 +1,9 @@
 _CinnabarGymBlainePreBattleText::
 	text "Hah!"
 
-	para "I am BLAINE! I"
-	line "am the LEADER of"
-	cont "CINNABAR GYM!"
+	para "I am PIKABLAINE!"
+	line "I am the LEADER"
+	cont "of CINNABAR GYM!"
 
 	para "My fiery #MON"
 	line "will incinerate"
@@ -58,9 +58,9 @@ _CinnabarGymBlaineTM38ExplanationText::
 	para "Teach it to fire-"
 	line "type #MON!"
 
-	para "CHARMELEON or"
-	line "PONYTA would be"
-	cont "good bets!"
+	para "CHUMELEON or"
+	line "PONYTACHU would"
+	cont "be good bets!"
 	done
 
 _CinnabarGymBlaineTM38NoRoomText::
@@ -139,8 +139,9 @@ _CinnabarGymSuperNerd4AfterBattleText::
 	done
 
 _CinnabarGymSuperNerd5BattleText::
-	text "I know why BLAINE"
-	line "became a trainer!"
+	text "I know why"
+	line "PIKABLAINE became"
+	line "a trainer!"
 	done
 
 _CinnabarGymSuperNerd5EndBattleText::
@@ -148,13 +149,13 @@ _CinnabarGymSuperNerd5EndBattleText::
 	prompt
 
 _CinnabarGymSuperNerd5AfterBattleText::
-	text "BLAINE was lost"
+	text "PIKABLAINE was lost"
 	line "in the mountains"
 	cont "when a fiery bird"
 	cont "#MON appeared."
 
 	para "Its light enabled"
-	line "BLAINE to find"
+	line "PIKABLAINE to find"
 	cont "his way down!"
 	done
 
@@ -171,8 +172,8 @@ _CinnabarGymSuperNerd6EndBattleText::
 
 _CinnabarGymSuperNerd6AfterBattleText::
 	text "Us fire #MON"
-	line "fans like PONYTA"
-	cont "and NINETALES!"
+	line "fans like PONYTACHU"
+	cont "and PIKATALES!"
 	done
 
 _CinnabarGymSuperNerd7BattleText::
@@ -196,8 +197,8 @@ _CinnabarGymGymGuideChampInMakingText::
 	line "making!"
 
 	para "The hot-headed"
-	line "BLAINE is a fire"
-	cont "#MON pro!"
+	line "PIKABLAINE is a"
+	cont "fire #MON pro!"
 
 	para "Douse his spirits"
 	line "with water!"
@@ -218,7 +219,7 @@ _CinnabarGymText_1::
 
 	para "You have to take a"
 	line "quiz if you want"
-	cont "to see BLAINE."
+	cont "to see PIKABLAINE."
 
 	para "You don't have to"
 	line "fight us if you"

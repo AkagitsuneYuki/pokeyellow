@@ -1,5 +1,5 @@
 _FuchsiaGymKogaBeforeBattleText::
-	text "KOGA: Fwahahaha!"
+	text "KOGACHU: Fwahahaha!"
 
 	para "A mere child like"
 	line "you dares to"
@@ -110,7 +110,7 @@ _FuchsiaGymRocker2EndBattleText::
 _FuchsiaGymRocker2AfterBattleText::
 	text "I will keep on"
 	line "training under"
-	cont "KOGA, my ninja"
+	cont "KOGACHU, my ninja"
 	cont "master!"
 	done
 
@@ -157,7 +157,7 @@ _FuchsiaGymRocker4AfterBattleText::
 _FuchsiaGymRocker5BattleText::
 	text "I also study the"
 	line "way of the ninja"
-	cont "with master KOGA!"
+	cont "with master KOGACHU!"
 
 	para "Ninja have a long"
 	line "history of using"
@@ -174,7 +174,7 @@ _FuchsiaGymRocker5AfterBattleText::
 	done
 
 _FuchsiaGymRocker6BattleText::
-	text "Master KOGA comes"
+	text "Master KOGACHU comes"
 	line "from a long line"
 	cont "of ninjas!"
 
@@ -205,7 +205,7 @@ _FuchsiaGymGymGuideChampInMakingText::
 	line "riddled with"
 	cont "invisible walls!"
 
-	para "KOGA might appear"
+	para "KOGACHU might appear"
 	line "close, but he's"
 	cont "blocked off!"
 
