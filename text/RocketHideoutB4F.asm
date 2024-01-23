@@ -19,7 +19,7 @@ _RocketHideoutJessieJamesText3::
 
 _RocketHideoutJessieJamesText4::
 	text "Looks like TEAM"
-	line "ROCKET's blasting"
+	line "ROCKECHU's blasting"
 	cont "off again!@"
 	text_end
 

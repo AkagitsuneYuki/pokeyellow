@@ -15,7 +15,7 @@ _SaffronCityRocket3Text::
 
 _SaffronCityRocket4Text::
 	text "SAFFRON belongs"
-	line "to TEAM ROCKET!"
+	line "to TEAM ROCKECHU!"
 	done
 
 _SaffronCityRocket5Text::
@@ -37,12 +37,12 @@ _SaffronCityRocket7Text::
 
 _SaffronCityScientistText::
 	text "You beat TEAM"
-	line "ROCKET all alone?"
+	line "ROCKECHU all alone?"
 	cont "That's amazing!"
 	done
 
 _SaffronCitySilphWorkerMText::
-	text "Yeah! TEAM ROCKET"
+	text "Yeah! TEAM ROCKECHU"
 	line "is gone!"
 	cont "It's safe to go"
 	cont "out again!"
@@ -56,7 +56,7 @@ _SaffronCitySilphWorkerFText::
 
 _SaffronCityGentlemanText::
 	text "I flew here on my"
-	line "PIDGEOT when I"
+	line "PIKEOTTO when I"
 	cont "read about SILPH."
 
 	para "It's already over?"
@@ -65,11 +65,11 @@ _SaffronCityGentlemanText::
 	done
 
 _SaffronCityPidgeotText::
-	text "PIDGEOT: Bi bibii!@"
+	text "PIKEOTTO: Pi pipii!@"
 	text_end
 
 _SaffronCityRockerText::
-	text "I saw ROCKET"
+	text "I saw ROCKECHU"
 	line "BOSS escaping"
 	cont "SILPH's building."
 	done
@@ -103,7 +103,7 @@ _SaffronCityFightingDojoSignText::
 _SaffronCityGymSignText::
 	text "SAFFRON CITY"
 	line "#MON GYM"
-	cont "LEADER: SABRINA"
+	cont "LEADER: SABRINACHU"
 
 	para "The Master of"
 	line "Psychic #MON!"

@@ -14,7 +14,7 @@ _ViridianForestYoungster2BattleText::
 
 _ViridianForestYoungster2EndBattleText::
 	text "No!"
-	line "CATERPIE can't"
+	line "CATERCHU can't"
 	cont "cut it!"
 	prompt
 
@@ -90,7 +90,7 @@ _ViridianForestYoungster5EndBattleText::
 	prompt
 
 _ViridianForestYoungster5AfterBattleText::
-	text "A METAPOD is cool"
+	text "A PIKAPOD is cool"
 	line "because its"
 	cont "attack is its"
 	cont "defense!"
@@ -123,7 +123,7 @@ _ViridianForestUseAntidoteSignText::
 _ViridianForestTrainerTips2Text::
 	text "TRAINER TIPS"
 
-	para "Contact PROF.OAK"
+	para "Contact OAKACHU"
 	line "via PC to get"
 	cont "your #DEX"
 	cont "evaluated!"

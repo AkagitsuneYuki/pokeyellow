@@ -1,5 +1,5 @@
 _SSAnne1FRoomsWigglytuffText::
-	text "WIGGLYTUFF: Puup"
+	text "PIKATUFF: Puup"
 	line "pupuu!@"
 	text_end
 
@@ -88,7 +88,7 @@ _SSAnne1FRoomsMiddleAgedManText::
 
 _SSAnne1FRoomsLittleGirlText::
 	text "I always travel"
-	line "with WIGGLYTUFF!"
+	line "with PIKATUFF!"
 	done
 
 _SSAnne1FRoomsGirl2Text::
@@ -101,5 +101,5 @@ _SSAnne1FRoomsGentleman3Text::
 	line "POLICE agent!"
 
 	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	line "of TEAM ROCKECHU!"
 	done

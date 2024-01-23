@@ -78,7 +78,7 @@ _SaffronGymGuideChampInMakingText::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "SABRINA's #MON"
+	para "SABRINACHU's #MON"
 	line "use psychic power"
 	cont "instead of force!"
 
@@ -101,7 +101,7 @@ _SaffronGymGuideBeatSabrinaText::
 	done
 
 _SaffronGymChanneler1BattleText::
-	text "SABRINA is younger"
+	text "SABRINACHU is younger"
 	line "than I, but I"
 	cont "respect her!"
 	done
@@ -118,7 +118,7 @@ _SaffronGymChanneler1AfterBattleText::
 	cont "will wins!"
 
 	para "If you wish"
-	line "to beat SABRINA,"
+	line "to beat SABRINACHU,"
 	cont "focus on winning!"
 	done
 
@@ -169,7 +169,7 @@ _SaffronGymYoungster2EndBattleText::
 	prompt
 
 _SaffronGymYoungster2AfterBattleText::
-	text "SABRINA just wiped"
+	text "SABRINACHU just wiped"
 	line "out the KARATE"
 	cont "MASTER next door!"
 	done
@@ -192,7 +192,7 @@ _SaffronGymChanneler3AfterBattleText::
 	done
 
 _SaffronGymYoungster3BattleText::
-	text "SABRINA is young,"
+	text "SABRINACHU is young,"
 	line "but she's also"
 	cont "our LEADER!"
 
@@ -223,7 +223,7 @@ _SaffronGymYoungster4BattleText::
 	cont "its psychics!"
 
 	para "You want to see"
-	line "SABRINA!"
+	line "SABRINACHU!"
 	cont "I can tell!"
 	done
 

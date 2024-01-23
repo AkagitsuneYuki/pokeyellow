@@ -48,7 +48,7 @@ _SilphCo9FScientistAfterBattleText::
 
 _SilphCo9FRocket2BattleText::
 	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	line "ROCKECHU BROTHERS!"
 	done
 
 _SilphCo9FRocket2EndBattleText::

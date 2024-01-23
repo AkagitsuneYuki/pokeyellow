@@ -1,12 +1,12 @@
 _SilphCo5FSilphWorkerMThatsYouRightText::
-	text "TEAM ROCKET is"
+	text "TEAM ROCKECHU is"
 	line "in an uproar over"
 	cont "some intruder."
 	cont "That's you right?"
 	done
 
 _SilphCo5FSilphWorkerMYoureOurHeroText::
-	text "TEAM ROCKET took"
+	text "TEAM ROCKECHU took"
 	line "off! You're our"
 	cont "hero! Thank you!"
 	done
@@ -23,7 +23,7 @@ _SilphCo5FRocket1EndBattleText::
 _SilphCo5FRocket1AfterBattleText::
 	text "It's not smart"
 	line "to pick a fight"
-	cont "with TEAM ROCKET!"
+	cont "with TEAM ROCKECHU!"
 	done
 
 _SilphCo5FScientistBattleText::
@@ -62,7 +62,7 @@ _SilphCo5FRockerAfterBattleText::
 	done
 
 _SilphCo5FRocket2BattleText::
-	text "Show TEAM ROCKET"
+	text "Show TEAM ROCKECHU"
 	line "a little respect!"
 	done
 
@@ -74,8 +74,8 @@ _SilphCo5FRocket2EndBattleText::
 _SilphCo5FRocket2AfterBattleText::
 	text "Which reminds me."
 
-	para "KOFFING evolves"
-	line "into WEEZING!"
+	para "KOFFINGCHU evolves"
+	line "into WEEZINGCHU!"
 	done
 
 _SilphCo5FPokemonReport1Text::
@@ -83,7 +83,7 @@ _SilphCo5FPokemonReport1Text::
 	line "REPORT!"
 
 	para "#MON LAB"
-	line "created PORYGON,"
+	line "created PORYCHU,"
 	cont "the first virtual"
 	cont "reality #MON."
 	done

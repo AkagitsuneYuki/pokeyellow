@@ -14,10 +14,11 @@ _ViridianNicknameHouseLittleGirlText::
 	done
 
 _ViridianNicknameHouseSpearowText::
-	text "SPEARY: Tetweet!"
+	text "SPEARYCHU:"
+	cont "Tetweet!"
 	done
 
 _ViridianNicknameHouseSpearySignText::
-	text "SPEAROW"
+	text "SPEAROWCHU"
 	line "Name: SPEARY"
 	done

@@ -4,9 +4,9 @@ _RedsHouse1FMomWakeUpText::
 	cont "home someday."
 	cont "It said so on TV."
 
-	para "PROF.OAK, next"
-	line "door, is looking"
-	cont "for you."
+	para "PROF.OAKACHU,"
+	line "next door, is"
+	cont "looking for you."
 	done
 
 _RedsHouse1FMomYouShouldRestText::

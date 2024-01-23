@@ -10,7 +10,7 @@ _RocketHideoutB1FRocketEndBattleText::
 	prompt
 
 _RocketHideoutB1FRocketAfterBattleText::
-	text "The TEAM ROCKET"
+	text "The TEAM ROCKECHU"
 	line "HQ has 4 basement"
 	cont "floors. Can you"
 	cont "reach the BOSS?"

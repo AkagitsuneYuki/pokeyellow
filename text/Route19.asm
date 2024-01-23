@@ -25,7 +25,7 @@ _Route19CooltrainerM2EndBattleText::
 
 _Route19CooltrainerM2AfterBattleText::
 	text "Watch out for"
-	line "TENTACOOL!"
+	line "TENTACHU!"
 	done
 
 _Route19Swimmer1BattleText::
@@ -145,7 +145,7 @@ _Route19Swimmer8EndBattleText::
 	prompt
 
 _Route19Swimmer8AfterBattleText::
-	text "LAPRAS is so big,"
+	text "LAPRACHU is so big,"
 	line "it must keep you"
 	cont "dry on water."
 	done

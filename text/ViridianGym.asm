@@ -4,7 +4,7 @@ _ViridianGymGiovanniPreBattleText::
 
 	para "I planned to"
 	line "resurrect TEAM"
-	cont "ROCKET here!"
+	cont "ROCKECHU here!"
 
 	para "But, you have"
 	line "caught me again!"
@@ -14,7 +14,7 @@ _ViridianGymGiovanniPreBattleText::
 
 	para "Once more, you"
 	line "shall face"
-	cont "GIOVANNI, the"
+	cont "PIKAVANNI, the"
 	cont "greatest trainer!"
 	done
 
@@ -31,7 +31,7 @@ _ViridianGymGiovanniPostBattleAdviceText::
 	text "Having lost, I"
 	line "cannot face my"
 	cont "underlings!"
-	cont "TEAM ROCKET is"
+	cont "TEAM ROCKECHU is"
 	cont "finished forever!"
 
 	para "I will dedicate my"
@@ -235,6 +235,6 @@ _ViridianGymGuidePreBattleText::
 
 _ViridianGymGuidePostBattleText::
 	text "Blow me away!"
-	line "GIOVANNI was the"
+	line "PIKAVANNI was the"
 	cont "GYM LEADER here?"
 	done

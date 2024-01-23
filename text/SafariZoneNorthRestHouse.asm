@@ -17,11 +17,11 @@ _SafariZoneNorthRestHouseSafariZoneWorkerText::
 	done
 
 _SafariZoneNorthRestHouseGentlemanText::
-	text "My EEVEE evolved"
-	line "into FLAREON!"
+	text "My EEVEECHU evolved"
+	line "into FLARECHU!"
 
 	para "But, a friend's"
-	line "EEVEE turned into"
-	cont "a VAPOREON!"
+	line "EEVEECHU turned"
+	cont "into a VAPORECHU!"
 	cont "I wonder why?"
 	done

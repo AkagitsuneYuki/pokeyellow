@@ -20,13 +20,14 @@ _PokemonTowerJessieJamesText3::
 
 _PokemonTowerJessieJamesText4::
 	text "Looks like TEAM"
-	line "ROCKET's blasting"
+	line "ROCKECHU's blasting"
 	cont "off again!@"
 	text_end
 
 _PokemonTower7FMrFujiRescueText::
-	text "MR.FUJI: Heh? You"
-	line "came to save me?"
+	text "MR.FUJICHU: Heh?"
+	line "You came to save"
+	cont "me?"
 
 	para "Thank you. But, I"
 	line "came here of my"
@@ -34,9 +35,9 @@ _PokemonTower7FMrFujiRescueText::
 
 	para "I came to calm"
 	line "the soul of"
-	cont "CUBONE's mother."
+	cont "PICUBONE's mother."
 
-	para "I think MAROWAK's"
+	para "I think PIKAWAK's"
 	line "spirit has gone"
 	cont "to the afterlife."
 
