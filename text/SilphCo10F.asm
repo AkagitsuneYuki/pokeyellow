@@ -60,7 +60,7 @@ _SilphCoJessieJamesText3::
 	prompt
 
 _SilphCoJessieJamesText4::
-	text "TEAM ROCKET, blast"
+	text "TEAM ROCKECHU, blast"
 	line "off at the speed"
 	cont "of light!"
 
